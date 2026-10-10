@@ -21,6 +21,7 @@ call to redo() must do nothing, because the &quot;World&quot; branch of history 
 Your Task (C++): Implement this as a C++ class with type(string), undo(), redo(), and print() methods,
 using two stacks to manage the undo and redo history. Write a main() that reproduces the exact sequence
 of calls above and prints the document state after each call.
+
 Tasks 3: An office printer serves jobs strictly in the order they were submitted. One afternoon, IT support
 discovers that the first K jobs currently waiting were accidentally submitted in the wrong order by a faulty
 scanner app, and need to be reversed but every job after the first K was submitted correctly and must be
