@@ -42,6 +42,7 @@ passengers being boarded, followed by the arrival of passenger 110. One more pas
 boarded, after which passengers 111 and 112 arrive. Implement this scenario using an array-based
 circular queue and display the final passengers in their actual boarding order along with the final front
 and rear positions.
+
 Task 6: A shipping company&#39;s only available storage equipment is a set of stack-style bins, crates can
 only be added or removed from the top. Management now wants shipments processed strictly in the
 order they were received (first in, first out), but nobody is willing to buy new equipment. You are asked
